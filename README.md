@@ -15,4 +15,11 @@ Below are the results from both months of June and December
 * Both months have a standard deviation over 3. This suggests that there is possibility of variation, a change in temperatures, for both months.
 
 ## Summary 
+From the temperature data that was gathered for June and December it can be concluded that there is not much of a difference between the two months. This leads me to infer that the Surf n' Shake business will be able to succeed year round, outside of a handful of bad weather days. Since December has a minimum temperature of 56 degrees, it may not be ideal for locals and tourists to enjoy surfing and ice cream on those hanful of cold December days. In addition to analyzing the temperature data, I decided to dive a little deeper and gather the precipitation (rain) data for both months provided below.
+* ![june_rain](https://user-images.githubusercontent.com/85372441/129798277-386263b7-8b04-49b2-8379-043b5d110e36.png) ![december_rain](https://user-images.githubusercontent.com/85372441/129798287-b5badd47-386c-4b86-9e6f-05d5cce421de.png)
+* The tables above show that December has significantly more rain than June. The average rainfall for December is ~ 0.22 inches and a maximum of 6.4 inches. 
+* On the other hand, June averages ~0.14 inches of rain, which is ~ 64% less precipitation per day. 
+* December's maximum rainfall per day is ~ 69% higher than June's, which could deter customers from venturing out for an icecream or a day surfing the waves. 
+* In conclusion, the rainfall in December while being significantly higher than June will not drastically affect my business model and W. Avy is more than happy to hop onboard with this business venture. 
+### Here's to living in paradise, ripping waves, and enjoying delicious ice cream treats!!
 
